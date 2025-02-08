@@ -6,10 +6,15 @@
 ### L&Q Customer Service Centre/Team (CST)
 ☎️ 0300 345 9998 - For new and old repairs, after office hours (Mon-Fri 9AM-5PM) calls are redirect to Out of Office Hours Team.
 
-> [!TIP]
+> ⚠️
+> *L&Q will raise the priority/severity of an incident solely based on the number of calls received!*  
+> PLEASE DO NOT ASSUME OTHER RESIDENTS REPORTED ALREADY ANY ISSUE!
+
+> ✅
 > Request always, and share, the job numbers (L&Q and contractors).
 
-> ⚠️ Avoid to send emails for urgent repairs to avoid the creation of multiple jobs which complicate things.
+> ⚠️ 
+> Avoid to send emails for urgent repairs to avoid the creation of multiple jobs which complicate things.
 
 ## Property Management
 L&Q [Website](https://www.lqgroup.org.uk)
