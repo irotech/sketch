@@ -16,11 +16,11 @@ L&Q [Website](https://www.lqgroup.org.uk)
 
 ### L&Q Management 
 - Marlon Thurbourne, Caretaker (☎️ 07989 226 949)
-- Segun Adegunwa, Neighbourhood Housing Lead (✉️ segunadegunwa@lqgroup.org.uk, ☎️ 0300 456 9998)
-- Agatha Okwuraiwe, Area Housing Manager - Tower Hamlets (East Region) (✉️ aokwuraiwe@lqgroup.org.uk)
-- Nia Edufuah, Project Officer (Fire Actions) (✉️ nedufuah@lqgroup.org.uk, ☎️ 0300 456 9996)
-- Hannah Mitchelson, Fire Actions Manager and Project Manager (✉️ hmitchelson@lqgroup.org.uk, ☎️ 0300 456 9998)
-- Oceans Estate Taskforce (oceansestatetaskforce@lqgroup.org.uk)
+- Segun Adegunwa, Neighbourhood Housing Lead (✉️ [segunadegunwa@lqgroup.org.uk](mailto:segunadegunwa@lqgroup.org.uk), ☎️ 0300 456 9998)
+- Agatha Okwuraiwe, Area Housing Manager - Tower Hamlets (East Region) (✉️ [aokwuraiwe@lqgroup.org.uk](mailto:aokwuraiwe@lqgroup.org.uk))
+- Nia Edufuah, Project Officer (Fire Actions) (✉️ [nedufuah@lqgroup.org.uk](mailto:nedufuah@lqgroup.org.uk), ☎️ 0300 456 9996)
+- Hannah Mitchelson, Fire Actions Manager and Project Manager (✉️ [hmitchelson@lqgroup.org.uk](mailto:hmitchelson@lqgroup.org.uk), ☎️ 0300 456 9998)
+- Oceans Estate Taskforce (✉️ [oceansestatetaskforce@lqgroup.org.uk](mailto:oceansestatetaskforce@lqgroup.org.uk))
 
 ### L&Q Head office
 ☎️ 0300 456 9998 - All Business inquiries
@@ -70,15 +70,17 @@ London office: ☎️ 08455 196254 - 0808 2080063
 ### Intercom & Fobs
 NACD [Website](https://www.nacd.co.uk/)
 ☎️ 020 7709 8617
-aftercare@nacd.co.uk (If you want to assign your mobile to the flat number)
-maintenance@nacd.co.uk (If you want to report a fault)
+✉️ [aftercare@nacd.co.uk](mailto:aftercare@nacd.co.uk) (If you want to assign your mobile to the flat number)
+✉️ [maintenance@nacd.co.uk](mailto:maintenance@nacd.co.uk) (If you want to report a fault)
 
 ## VOTRA (VIVO Ocean Tenants and Residents Association)
-admin@votra.co.uk (please consider to join sending an email with your flat number and building name)
-votra@googlegroups.com (general discussions)
-votraservicecharges@googlegroups.com (service charges discussions only)
-votra-hub.slack.com (Slack Community)
-@VivoOceanTRA (Twitter)
+✉️ [admin@votra.co.uk](mailto:admin@votra.co.uk) (please consider to join sending an email with your flat number and building name)
+
+✉️ [votra@googlegroups.com](mailto:votra@googlegroups.com) (general discussions)
+
+✉️ [votraservicecharges@googlegroups.com](mailto:votraservicecharges@googlegroups.com) (service charges discussions only)
+
+votra-hub.slack.com (Slack Community) | @VivoOceanTRA (X|Twitter)
 
 ## DIY / REPAIR
 
