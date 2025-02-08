@@ -64,10 +64,11 @@ billing@vitalenergi.co.uk (If you want open a new account or queries)
 London office: ☎️ 08455 196254 - 0808 2080063
 
 ### Garbage collection
-TBD
+## Bulky waste
+[Ways to dispose of your large items safely](https://www.towerhamlets.gov.uk/lgnl/environment_and_waste/recycling_and_waste/Bulky_waste/bulky_waste.aspx)
 
 ### Intercom & Fobs
-NACD https://www.nacd.co.uk/
+NACD [Website](https://www.nacd.co.uk/)
 ☎️ 020 7709 8617
 aftercare@nacd.co.uk (If you want to assign your mobile to the flat number)
 maintenance@nacd.co.uk (If you want to report a fault)
