@@ -60,13 +60,12 @@ Online form: https://www.towerhamletshomes.org.uk/my.../asb/report
 
 ## Service
 
-### Hot water & Heating
-Heat Interface Unit (HIU) service booking 
-☎️ 020 8076 9263
-bookhiuservice@vitalenergi.co.uk
-VitalEnergi via L&Q Energy https://www.vitalenergi.co.uk/
-billing@vitalenergi.co.uk (If you want open a new account or queries)
-London office: ☎️ 08455 196254 - 0808 2080063
+### Hot water & Heating - Heat Interface Unit (HIU) service 
+[Elevate Everywhere](https://www.elevateeverywhere.com/)
+
+[HRV Group](https://www.hrv-group.com/)
+
+[VitalEnergi](https://www.vitalenergi.co.uk/) (☎️ [020 8076 9263](tel:020 8076 9263) [bookhiuservice@vitalenergi.co.uk](mailto:bookhiuservice@vitalenergi.co.uk))
 
 ### Garbage collection
 ## Bulky waste
