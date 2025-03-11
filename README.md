@@ -19,9 +19,7 @@
 ## Property Management
 L&Q (London & Quadrant Housing Trust) [Website](https://www.lqgroup.org.uk)
 
-### L&Q Management 
-- Marlon Thurbourne **Caretaker**\
-☎️ [07989 226 949](tel:07989 226 949)
+### L&Q Management
 
 - Segun Adegunwa **Neighbourhood Housing Lead**\
 ✉️ [segunadegunwa@lqgroup.org.uk](mailto:segunadegunwa@lqgroup.org.uk) | ☎️ [0300 456 9998](tel:0300 456 9998)
@@ -29,14 +27,18 @@ L&Q (London & Quadrant Housing Trust) [Website](https://www.lqgroup.org.uk)
 - Agatha Okwuraiwe **Area Housing Manager - Tower Hamlets (East Region)**\
 ✉️ [aokwuraiwe@lqgroup.org.uk](mailto:aokwuraiwe@lqgroup.org.uk)
 
-- Nia Edufuah **Project Officer (Fire Actions)**\
-✉️ [nedufuah@lqgroup.org.uk](mailto:nedufuah@lqgroup.org.uk) | ☎️ [0300 456 9996](tel:0300 456 9996)
+- Marlon Thurbourne **Caretaker**\
+☎️ [07989 226 949](tel:07989 226 949)
 
-- Hannah Mitchelson **Fire Actions Manager and Project Manager**\
+- Oceans Estate Taskforce (Temporary taskforce to deliver small projects)\
+✉️ [oceansestatetaskforce@lqgroup.org.uk](mailto:oceansestatetaskforce@lqgroup.org.uk))\
+Members of the taskforce to be contacted through the above email:
+
+    - Hannah Mitchelson **Fire Actions Manager and Project Manager**\
 ✉️ [hmitchelson@lqgroup.org.uk](mailto:hmitchelson@lqgroup.org.uk) | ☎️ [0300 456 9998](tel:0300 456 9998)
 
-- Oceans Estate Taskforce\
-✉️ [oceansestatetaskforce@lqgroup.org.uk](mailto:oceansestatetaskforce@lqgroup.org.uk))
+    - Nia Edufuah **Project Officer (Fire Actions)**\
+✉️ [nedufuah@lqgroup.org.uk](mailto:nedufuah@lqgroup.org.uk) | ☎️ [0300 456 9996](tel:0300 456 9996)
 
 ### L&Q Head office
 ☎️ [0300 456 9998](tel:0300 456 9998) - All Business inquiries
