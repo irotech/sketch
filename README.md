@@ -80,7 +80,9 @@ Online form: https://www.towerhamletshomes.org.uk/my.../asb/report
 [VitalEnergi](https://www.vitalenergi.co.uk/) (☎️ [020 8076 9263](tel:020 8076 9263) [bookhiuservice@vitalenergi.co.uk](mailto:bookhiuservice@vitalenergi.co.uk))
 
 ## VOTRA (VIVO Ocean Tenants and Residents Association)
-✉️ [admin@votra.co.uk](mailto:admin@votra.co.uk) (please consider to join sending an email with your flat number and building name)
+**VOTRA** is a voluntary organisation run by elected officers, and a Committee made up of residents living on the Estate. VOTRA's primary role is to raise matters to L&Q that are in the interests of and affect the whole VIVO community. VOTRA organises periodic public meetings that all neighbours are welcome to join."
+
+✉️ [admin@votra.co.uk](mailto:admin@votra.co.uk) (to contact VOTRA, ask to become a member or to join its Google Groups)
 
 ##### Google Group
 Closed forum intended for dialogue between VOTRA and neighbours only, **not L&Q**.\
