@@ -1,7 +1,14 @@
+<!-- omit in toc -->
 # Sketch Apartments Info page
+
+<!-- omit in toc -->
+## Index
+- [Contact Numbers](#contact-numbers)
+  - [L&Q Customer Service Centre/Team (CST)](#lq-customer-service-centreteam-cst)
+  - [L&Q Customer service centre](#lq-customer-service-centre)
+  - [Security](#security)
+
 ## Contact Numbers
-### Security
-☎️ [020 8572 9171](tel:020 8572 9171) Enigma Security Solutions Ltd 
 
 ### L&Q Customer Service Centre/Team (CST)
 ☎️ [0300 345 9998](tel:0300 345 9998) - For new and old repairs, after office hours (Mon-Fri 9AM-5PM) calls are redirect to Out of Office Hours Team.
@@ -16,6 +23,17 @@
 > ⚠️ 
 > Avoid to send emails for urgent repairs to avoid the creation of multiple jobs which complicate things.
 
+### L&Q Customer service centre
+- reporting or requesting an update on a repair
+- service charge queries
+- leaseholder/Shared owner queries
+  [0300 456 9996](tel:0300 456 9996)
+  Monday to Friday from 8am to 6pm (excluding bank holidays)
+  Outside these hours emergency only service
+
+### Security
+☎️ [020 8572 9171](tel:020 8572 9171) Enigma Security Solutions Ltd
+
 ## Property Management
 L&Q (London & Quadrant Housing Trust) [Website](https://www.lqgroup.org.uk)
 
@@ -27,10 +45,7 @@ L&Q (London & Quadrant Housing Trust) [Website](https://www.lqgroup.org.uk)
 - Agatha Okwuraiwe **Area Housing Manager - Tower Hamlets (East Region)**\
 ✉️ [aokwuraiwe@lqgroup.org.uk](mailto:aokwuraiwe@lqgroup.org.uk)
 
-- Marlon Thurbourne **Caretaker**\
-☎️ [07989 226 949](tel:07989 226 949)
-
-- Oceans Estate Taskforce (Temporary taskforce to deliver small projects)\
+- Oceans Estate Taskforce (**Temporary taskforce to deliver small projects**)\
 ✉️ [oceansestatetaskforce@lqgroup.org.uk](mailto:oceansestatetaskforce@lqgroup.org.uk))\
 Members of the taskforce to be contacted through the above email:
 
@@ -40,16 +55,11 @@ Members of the taskforce to be contacted through the above email:
     - Nia Edufuah **Project Officer (Fire Actions)**\
 ✉️ [nedufuah@lqgroup.org.uk](mailto:nedufuah@lqgroup.org.uk) | ☎️ [0300 456 9996](tel:0300 456 9996)
 
+- Marlon Thurbourne **Caretaker**\
+  ☎️ [07989 226 949](tel:07989 226 949)
+
 ### L&Q Head office
 ☎️ [0300 456 9998](tel:0300 456 9998) - All Business inquiries
-
-### L&Q Customer service centre
-- reporting or requesting an update on a repair
-- service charge queries
-- leaseholder/Shared owner queries
-[0300 456 9996](tel:0300 456 9996)
-Monday to Friday from 8am to 6pm (excluding bank holidays)
-Outside these hours emergency only service
 
 ### L&Q Online account
 [Online account](https://www.lqgroup.org.uk/onlineaccount)\
@@ -90,7 +100,7 @@ Closed forum intended for dialogue between VOTRA and neighbours only, **not L&Q*
 ✉️ [votraservicecharges@googlegroups.com](mailto:votraservicecharges@googlegroups.com) (service charges discussions only)
 
 ##### Social
-**Slack**: [votra-hub.slack.com](votra-hub.slack.com)\
+**Slack**: [votra-hub.slack.com](https://votra-hub.slack.com/)\
 **X|Twitter**: [@VivoOceanTRA](https://x.com/vivooceantra) (mainly used for exceptional updates)
 
 ### Garbage collection
